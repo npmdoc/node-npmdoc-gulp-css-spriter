@@ -1,9 +1,14 @@
-# api documentation for  [gulp-css-spriter (v0.4.0)](https://github.com/MadLittleMods/gulp-css-spriter#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-css-spriter.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-css-spriter) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-css-spriter.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-css-spriter)
+# npmdoc-gulp-css-spriter
+
+#### api documentation for  [gulp-css-spriter (v0.4.0)](https://github.com/MadLittleMods/gulp-css-spriter#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-css-spriter.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-css-spriter) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-css-spriter.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-css-spriter)
+
 #### Sprite Sheet Generation from CSS source files. The best and different approach to sprite sheets.
 
-[![NPM](https://nodei.co/npm/gulp-css-spriter.png?downloads=true)](https://www.npmjs.com/package/gulp-css-spriter)
+[![NPM](https://nodei.co/npm/gulp-css-spriter.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-css-spriter)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-css-spriter/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-gulp-css-spriter_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-css-spriter/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-css-spriter/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-css-spriter/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-css-spriter/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-css-spriter/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-css-spriter/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Eric Eastwood",
-        "email": "contact@ericeastwood.com",
         "url": "http://ericeastwood.com/"
     },
     "bugs": {
@@ -62,13 +66,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "mlm",
-            "email": "contact@ericeastwood.com"
+            "name": "mlm"
         }
     ],
     "name": "gulp-css-spriter",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/MadLittleMods/gulp-css-spriter.git"
@@ -78,59 +80,6 @@
     },
     "version": "0.4.0"
 }
-```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-css-spriter](#apidoc.module.gulp-css-spriter)
-1.  object <span class="apidocSignatureSpan">gulp-css-spriter.</span>spriter_util
-
-#### [module gulp-css-spriter.spriter_util](#apidoc.module.gulp-css-spriter.spriter_util)
-1.  [function <span class="apidocSignatureSpan">gulp-css-spriter.spriter_util.</span>matchBackgroundImages (declarationValue, cb)](#apidoc.element.gulp-css-spriter.spriter_util.matchBackgroundImages)
-1.  object <span class="apidocSignatureSpan">gulp-css-spriter.spriter_util.</span>backgroundURLRegex
-
-
-
-# <a name="apidoc.module.gulp-css-spriter"></a>[module gulp-css-spriter](#apidoc.module.gulp-css-spriter)
-
-
-
-# <a name="apidoc.module.gulp-css-spriter.spriter_util"></a>[module gulp-css-spriter.spriter_util](#apidoc.module.gulp-css-spriter.spriter_util)
-
-#### <a name="apidoc.element.gulp-css-spriter.spriter_util.matchBackgroundImages"></a>[function <span class="apidocSignatureSpan">gulp-css-spriter.spriter_util.</span>matchBackgroundImages (declarationValue, cb)](#apidoc.element.gulp-css-spriter.spriter_util.matchBackgroundImages)
-- description and source-code
-```javascript
-function matchBackgroundImages(declarationValue, cb) {
-	var backgroundURLMatchAllRegex = new RegExp(backgroundURLRegex.source, "gi");
-
-	return declarationValue.replace(backgroundURLMatchAllRegex, function(match, p1, p2, p3, offset, string) {
-		var imagePath = p2;
-
-		return p1 + cb(imagePath) + p3;
-	});
-}
-```
-- example usage
-```shell
-...
-			// We find the new images that we found in this chunk verify they exist below
-			//		We use an object so we don't get any duplicates
-			var newImagesfFromChunkMap = {};
-			var backgroundURLMatchAllRegex = new RegExp(spriterUtil.backgroundURLRegex.source, "gi");
-			chunkBackgroundImageDeclarations.forEach(function(declaration) {
-
-				// Match each background image in the declaration (there could be multiple background images per value)
-				spriterUtil.matchBackgroundImages(declaration.value, function(imagePath) {
-					imagePath = path.join(path.dirname(chunk.path), imagePath);
-
-					// If not already in the overall list of images collected
-					// Add to the queue/list of images to be verified
-					if(!imageMap[imagePath]) {
-						newImagesfFromChunkMap[imagePath] = true;
-					}
-...
 ```
 
 
