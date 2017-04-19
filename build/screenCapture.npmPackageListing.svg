@@ -1,52 +1,52 @@
 <svg height="782" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="782" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 03:03:22 +0000   174532 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 03:03:22 +0000      256 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 03:03:22 +0000     7225 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 03:03:22 +0000     9297 bytes  index.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 03:03:22 +0000      693 bytes  lib/get-background-image-declarations.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 03:03:22 +0000     2036 bytes  lib/get-meta-info-for-declaration.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 03:03:22 +0000     3920 bytes  lib/map-over-styles-and-transform-background-ima\</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 03:04:39 +0000   174532 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 03:04:39 +0000      256 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 03:04:39 +0000     7225 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 03:04:39 +0000     9297 bytes  index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 03:04:39 +0000      693 bytes  lib/get-background-image-declarations.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 03:04:39 +0000     2036 bytes  lib/get-meta-info-for-declaration.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 03:04:39 +0000     3920 bytes  lib/map-over-styles-and-transform-background-ima\</tspan>
 <tspan x="10" y="138">ge-declarations.js</tspan>
-<tspan x="10" y="154">  7.  2017-04-19 03:03:22 +0000      529 bytes  lib/spriter-util.js</tspan>
-<tspan x="10" y="170">  8.  2017-04-19 03:03:22 +0000     2444 bytes  lib/transform-file-with-sprite-sheet-data.js</tspan>
-<tspan x="10" y="186">  9.  2017-04-19 03:03:22 +0000     1153 bytes  lib/transform-map.js</tspan>
-<tspan x="10" y="202"> 10.  2017-04-19 03:03:22 +0000     2868 bytes  package.json</tspan>
-<tspan x="10" y="218"> 11.  2017-04-19 03:03:22 +0000      587 bytes  test/gulpfile.js</tspan>
-<tspan x="10" y="234"> 12.  2017-04-19 03:03:22 +0000      156 bytes  test/test-css/background-image.css</tspan>
-<tspan x="10" y="250"> 13.  2017-04-19 03:03:22 +0000      312 bytes  test/test-css/background.css</tspan>
-<tspan x="10" y="266"> 14.  2017-04-19 03:03:22 +0000      235 bytes  test/test-css/background.min.css</tspan>
-<tspan x="10" y="282"> 15.  2017-04-19 03:03:22 +0000      312 bytes  test/test-css/expected/background.min.css</tspan>
-<tspan x="10" y="298"> 16.  2017-04-19 03:03:22 +0000      118 bytes  test/test-css/expected/external-image.css</tspan>
-<tspan x="10" y="314"> 17.  2017-04-19 03:03:22 +0000      559 bytes  test/test-css/expected/keyframes.css</tspan>
-<tspan x="10" y="330"> 18.  2017-04-19 03:03:22 +0000      375 bytes  test/test-css/expected/multiple-declarations-sam\</tspan>
+<tspan x="10" y="154">  7.  2017-04-19 03:04:39 +0000      529 bytes  lib/spriter-util.js</tspan>
+<tspan x="10" y="170">  8.  2017-04-19 03:04:39 +0000     2444 bytes  lib/transform-file-with-sprite-sheet-data.js</tspan>
+<tspan x="10" y="186">  9.  2017-04-19 03:04:39 +0000     1153 bytes  lib/transform-map.js</tspan>
+<tspan x="10" y="202"> 10.  2017-04-19 03:04:39 +0000     2868 bytes  package.json</tspan>
+<tspan x="10" y="218"> 11.  2017-04-19 03:04:39 +0000      587 bytes  test/gulpfile.js</tspan>
+<tspan x="10" y="234"> 12.  2017-04-19 03:04:39 +0000      156 bytes  test/test-css/background-image.css</tspan>
+<tspan x="10" y="250"> 13.  2017-04-19 03:04:39 +0000      312 bytes  test/test-css/background.css</tspan>
+<tspan x="10" y="266"> 14.  2017-04-19 03:04:39 +0000      235 bytes  test/test-css/background.min.css</tspan>
+<tspan x="10" y="282"> 15.  2017-04-19 03:04:39 +0000      312 bytes  test/test-css/expected/background.min.css</tspan>
+<tspan x="10" y="298"> 16.  2017-04-19 03:04:39 +0000      118 bytes  test/test-css/expected/external-image.css</tspan>
+<tspan x="10" y="314"> 17.  2017-04-19 03:04:39 +0000      559 bytes  test/test-css/expected/keyframes.css</tspan>
+<tspan x="10" y="330"> 18.  2017-04-19 03:04:39 +0000      375 bytes  test/test-css/expected/multiple-declarations-sam\</tspan>
 <tspan x="10" y="346">e-image.css</tspan>
-<tspan x="10" y="362"> 19.  2017-04-19 03:03:22 +0000     1445 bytes  test/test-css/expected/overall-include-explicit.\</tspan>
+<tspan x="10" y="362"> 19.  2017-04-19 03:04:39 +0000     1445 bytes  test/test-css/expected/overall-include-explicit.\</tspan>
 <tspan x="10" y="378">css</tspan>
-<tspan x="10" y="394"> 20.  2017-04-19 03:03:22 +0000     1590 bytes  test/test-css/expected/overall-include-implicit.\</tspan>
+<tspan x="10" y="394"> 20.  2017-04-19 03:04:39 +0000     1590 bytes  test/test-css/expected/overall-include-implicit.\</tspan>
 <tspan x="10" y="410">css</tspan>
-<tspan x="10" y="426"> 21.  2017-04-19 03:03:22 +0000      123 bytes  test/test-css/external-image.css</tspan>
-<tspan x="10" y="442"> 22.  2017-04-19 03:03:22 +0000      521 bytes  test/test-css/keyframes.css</tspan>
-<tspan x="10" y="458"> 23.  2017-04-19 03:03:22 +0000      334 bytes  test/test-css/meta-include.css</tspan>
-<tspan x="10" y="474"> 24.  2017-04-19 03:03:22 +0000       66 bytes  test/test-css/minimal-for-bare-testing.css</tspan>
-<tspan x="10" y="490"> 25.  2017-04-19 03:03:22 +0000      311 bytes  test/test-css/multiple-backgrounds.css</tspan>
-<tspan x="10" y="506"> 26.  2017-04-19 03:03:22 +0000      343 bytes  test/test-css/multiple-declarations-same-image.c\</tspan>
+<tspan x="10" y="426"> 21.  2017-04-19 03:04:39 +0000      123 bytes  test/test-css/external-image.css</tspan>
+<tspan x="10" y="442"> 22.  2017-04-19 03:04:39 +0000      521 bytes  test/test-css/keyframes.css</tspan>
+<tspan x="10" y="458"> 23.  2017-04-19 03:04:39 +0000      334 bytes  test/test-css/meta-include.css</tspan>
+<tspan x="10" y="474"> 24.  2017-04-19 03:04:39 +0000       66 bytes  test/test-css/minimal-for-bare-testing.css</tspan>
+<tspan x="10" y="490"> 25.  2017-04-19 03:04:39 +0000      311 bytes  test/test-css/multiple-backgrounds.css</tspan>
+<tspan x="10" y="506"> 26.  2017-04-19 03:04:39 +0000      343 bytes  test/test-css/multiple-declarations-same-image.c\</tspan>
 <tspan x="10" y="522">ss</tspan>
-<tspan x="10" y="538"> 27.  2017-04-19 03:03:22 +0000      132 bytes  test/test-css/non-existent-image.css</tspan>
-<tspan x="10" y="554"> 28.  2017-04-19 03:03:22 +0000     1525 bytes  test/test-css/overall.css</tspan>
-<tspan x="10" y="570"> 29.  2017-04-19 03:03:22 +0000      446 bytes  test/test-images/aenean-purple.png</tspan>
-<tspan x="10" y="586"> 30.  2017-04-19 03:03:22 +0000      895 bytes  test/test-images/dummy-blue.png</tspan>
-<tspan x="10" y="602"> 31.  2017-04-19 03:03:22 +0000     3179 bytes  test/test-images/gif.gif</tspan>
-<tspan x="10" y="618"> 32.  2017-04-19 03:03:22 +0000     4073 bytes  test/test-images/hello-orange.png</tspan>
-<tspan x="10" y="634"> 33.  2017-04-19 03:03:22 +0000      494 bytes  test/test-images/ipsum-cyan.png</tspan>
-<tspan x="10" y="650"> 34.  2017-04-19 03:03:22 +0000    21921 bytes  test/test-images/jpg.jpg</tspan>
-<tspan x="10" y="666"> 35.  2017-04-19 03:03:22 +0000      439 bytes  test/test-images/lorem-green.png</tspan>
-<tspan x="10" y="682"> 36.  2017-04-19 03:03:22 +0000      299 bytes  test/test-images/massa-red.png</tspan>
-<tspan x="10" y="698"> 37.  2017-04-19 03:03:22 +0000     7169 bytes  test/test-images/no-spritesheet.png</tspan>
-<tspan x="10" y="714"> 38.  2017-04-19 03:03:22 +0000    80774 bytes  test/test-images/no-spritesheet.psd</tspan>
-<tspan x="10" y="730"> 39.  2017-04-19 03:03:22 +0000     3507 bytes  test/test-images/transparent-hex.png</tspan>
-<tspan x="10" y="746"> 40.  2017-04-19 03:03:22 +0000      309 bytes  test/test-images/vitae-yellow.png</tspan>
-<tspan x="10" y="762"> 41.  2017-04-19 03:03:22 +0000    11562 bytes  test/test.js</tspan>
+<tspan x="10" y="538"> 27.  2017-04-19 03:04:39 +0000      132 bytes  test/test-css/non-existent-image.css</tspan>
+<tspan x="10" y="554"> 28.  2017-04-19 03:04:39 +0000     1525 bytes  test/test-css/overall.css</tspan>
+<tspan x="10" y="570"> 29.  2017-04-19 03:04:39 +0000      446 bytes  test/test-images/aenean-purple.png</tspan>
+<tspan x="10" y="586"> 30.  2017-04-19 03:04:39 +0000      895 bytes  test/test-images/dummy-blue.png</tspan>
+<tspan x="10" y="602"> 31.  2017-04-19 03:04:39 +0000     3179 bytes  test/test-images/gif.gif</tspan>
+<tspan x="10" y="618"> 32.  2017-04-19 03:04:39 +0000     4073 bytes  test/test-images/hello-orange.png</tspan>
+<tspan x="10" y="634"> 33.  2017-04-19 03:04:39 +0000      494 bytes  test/test-images/ipsum-cyan.png</tspan>
+<tspan x="10" y="650"> 34.  2017-04-19 03:04:39 +0000    21921 bytes  test/test-images/jpg.jpg</tspan>
+<tspan x="10" y="666"> 35.  2017-04-19 03:04:39 +0000      439 bytes  test/test-images/lorem-green.png</tspan>
+<tspan x="10" y="682"> 36.  2017-04-19 03:04:39 +0000      299 bytes  test/test-images/massa-red.png</tspan>
+<tspan x="10" y="698"> 37.  2017-04-19 03:04:39 +0000     7169 bytes  test/test-images/no-spritesheet.png</tspan>
+<tspan x="10" y="714"> 38.  2017-04-19 03:04:39 +0000    80774 bytes  test/test-images/no-spritesheet.psd</tspan>
+<tspan x="10" y="730"> 39.  2017-04-19 03:04:39 +0000     3507 bytes  test/test-images/transparent-hex.png</tspan>
+<tspan x="10" y="746"> 40.  2017-04-19 03:04:39 +0000      309 bytes  test/test-images/vitae-yellow.png</tspan>
+<tspan x="10" y="762"> 41.  2017-04-19 03:04:39 +0000    11562 bytes  test/test.js</tspan>
 </text>
 </svg>
